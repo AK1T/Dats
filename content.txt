@@ -25,6 +25,8 @@
 	<body>
 		<center><a id="test" src=""><img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/c_1.gif"></a></center>
 	</body>
+        <body>
 Ваши <a id="test" src="https://qiwi.com/payment/form/99?extra%5B%27account%27%5D=79823599947&amountInteger=10&extra%5B%27comment%27%5D=Thank_you,_AKiT!&currency=643">«Спасибо»</a> можете присылать на QIWI кошелек: <a id="test" src="https://qiwi.com/payment/form/99?extra%5B%27account%27%5D=79823599947&amountInteger=10&extra%5B%27comment%27%5D=Thank_you,_AKiT!&currency=643">+79823599947</a><br>.
+       </body>
 
 </html>
