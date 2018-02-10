@@ -23,9 +23,9 @@
 	</head>
 
 	<body>
-		<center><img src="https://raw.githubusercontent.com/AKiTCom/Dats/master/c_1.gif"></center>
+		<center><a id="test" src=""><img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/c_1.gif"></a></center>
 
-		<a id="test" src="http://ссылка1/">Текст 1</a><br>
+		Ваши <a href="https://qiwi.com/payment/form/99?extra%5B%27account%27%5D=79823599947&amountInteger=10&extra%5B%27comment%27%5D=Thank_you,_AKiT!&currency=643">«Спасибо»</a> можете присылать на QIWI кошелек: +79823599947
 		<a id="test" src="http://ссылка2/">Текст 2</a><br>
 		<a id="test" src="http://ссылка3/">Текст 3</a>
 
