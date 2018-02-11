@@ -1,4 +1,4 @@
-<!DOCTYPE html> ;(c) AKiT (Alex Kit) 2018.
+<!DOCTYPE html> <(c) AKiT (Alex Kit) 2018>
 <html>
 
 	<head>
