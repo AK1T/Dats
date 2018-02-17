@@ -24,11 +24,11 @@
 
 	<body>
 		<center>
-			<a id="AKiT" src="https://vk.com/write179735131">
+			<a id="" src="https://vk.com/write179735131">
 				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/binZ_aK1T.gif">
 			</a>
 
-			<br><hr>Ваши <a id="AKiT" src="https://qiwi.com/payment/form/99?extra%5B%27account%27%5D=79823599947&amountInteger=10&extra%5B%27comment%27%5D=Thank_you,_AKiT!&currency=643">«Спасибо»</a> можете присылать на QIWI кошелек: <a id="AKiT" src="https://qiwi.com/payment/form/99?extra%5B%27account%27%5D=79823599947&amountInteger=10&extra%5B%27comment%27%5D=Thank_you,_AKiT!&currency=643">+79823599947</a><br>
+			<br><hr>Ваши <a id="" src="https://qiwi.com/payment/form/99?extra%5B%27account%27%5D=79823599947&amountInteger=10&extra%5B%27comment%27%5D=Thank_you,_AKiT!&currency=643">«Спасибо»</a> можете присылать на QIWI кошелек: <a id="" src="https://qiwi.com/payment/form/99?extra%5B%27account%27%5D=79823599947&amountInteger=10&extra%5B%27comment%27%5D=Thank_you,_AKiT!&currency=643">+79823599947</a><br>
 		</center>
 
 	</body>
