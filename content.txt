@@ -33,8 +33,8 @@
 <blockquote><p><strong>Услуги по размещению рекламы при условии соблюдения рекламодателем следующих требований:</strong></p>•Рекламные материалы должны соответствовать требованиям действующего законодательства РФ.<br>
 •Использование бранных слов, непристойные и оскорбительные образы, сравнения и выражения в отношении пола, расы и национальности.<br>•Побуждение к совершению противоправных действий и/или призывает к насилию и жестокости.<br>
 •Касающихся с трагическими событиями/шокирующему контенту.<br></blockquote>
-<p><strong><mark>Стоимостные показатели услуги оговариваются с <a id="test" src="https://qiwi.com/payment/form/99?extra%5B%27account%27%5D=79823599947&amountInteger=10&extra%5B%27comment%27%5D=Thank_you,_AKiT!&currency=643">правообладателем</a>.</strong></p>
-<p><strong>Максимальный период публикации рекламы — 7 суток.</strong></mark></p>
+<p style="color: green;"><strong><mark>Стоимостные показатели услуги оговариваются с <a id="test" src="https://qiwi.com/payment/form/99?extra%5B%27account%27%5D=79823599947&amountInteger=10&extra%5B%27comment%27%5D=Thank_you,_AKiT!&currency=643">правообладателем</a>.</strong></p>
+<p style="color: green;"><strong>Максимальный период публикации рекламы — 7 суток.</strong></mark></p>
 <img class="photocard" src="https://github.com/AKiTCom/Dats/blob/master/log_akit.png">
 		</center>
 
