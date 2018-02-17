@@ -28,7 +28,13 @@
 				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/binZ_aK1T.gif">
 			</a>
 
-			<br><hr>•<br>•<br>•<br>•<a id="test" src="https://qiwi.com/payment/form/99?extra%5B%27account%27%5D=79823599947&amountInteger=10&extra%5B%27comment%27%5D=Thank_you,_AKiT!&currency=643">TEXT</a><br>
+			<h1>Общие положения. Требования к рекламным материалам.</h1>
+
+<p><strong>Услуги по размещению рекламы при условии соблюдения рекламодателем следующих требований:</strong></p><strong>•Рекламные материалы должны соответствовать требованиям действующего законодательства РФ.</strong><br>
+<strong>•Использование бранных слов, непристойные и оскорбительные образы, сравнения и выражения в отношении пола, расы и национальности.</strong><br><strong>•Побуждение к совершению противоправных действий и/или призывает к насилию и жестокости.</strong></p>
+<strong>•Касающихся с трагическими событиями/шокирующему контенту.</strong><br>
+<p><strong>Стоимостные показатели услуги оговариваются с <a id="test" src="https://qiwi.com/payment/form/99?extra%5B%27account%27%5D=79823599947&amountInteger=10&extra%5B%27comment%27%5D=Thank_you,_AKiT!&currency=643">правообладателем</a>.</strong></p>
+<p><strong>Максимальный период публикации рекламы — 7 суток.</strong></p>
 		</center>
 
 	</body>
