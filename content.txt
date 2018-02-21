@@ -34,7 +34,7 @@
                         <hr>
 <p style="color: green;"><strong><mark>Стоимостные показатели услуги оговариваются с <a id="test" src="https://vk.com/akit_com">правообладателем</a>.</strong></p>
 <p style="color: green;"><strong>Максимальный период публикации рекламы — 7 суток.</strong></mark></p>
-<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/log_akit.png">
+<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/logo_akit.png">
 		</center>
 
 	</body>
