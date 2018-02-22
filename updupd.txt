@@ -25,6 +25,7 @@
 	<body>
 		<center>
       <img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/log_update.jpg">
+      <img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/logo_akit.png">
     </center>
 	</body>
 
