@@ -27,11 +27,11 @@
 			<a id="test" src="https://www.youtube.com/watch?v=G3tJxyHcwzI&t=0s">
 				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/advertising_1.gif"></a>                      
 		</center>
-<div>&lt;p&gt;[28.04.18]:&lt;/p&gt;</div>
-<div>&lt;blockquote&gt;</div>
-<div>&nbsp; Началась разработка версии <font style="background-color:#ffff00;">1.6.8.0</font> с поддержкой 0.3DL.&nbsp;<img alt="wink" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/wink_smile.gif" title="wink" width="20"></div>
-<div>&lt;/blockquote&gt;</div>
-<div>&lt;/body&gt;</div>
+<p>[28.04.18]:</p>
+<blockquote>
+  Началась разработка версии 1.6.8.0 с поддержкой 0.3DL. wink
+</blockquote>
+</body>
 	</body>
 
 </html>
