@@ -24,7 +24,7 @@
 
 	<body>
 		<center>
-			<a id="test" src="https://www.youtube.com/watch?v=G3tJxyHcwzI&t=9s">
+			<a id="test" src="https://www.youtube.com/watch?v=G3tJxyHcwzI&t=0s">
 				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/advertising_1.gif"></a>                      
 		</center>
 <h2 style="font-style: italic; text-align: center;"><big><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:36px"><strong><span style="background-color:#0066ff">"#f4f" (oO) (c)AKiT</span></strong></span></span></span></big></h2>
