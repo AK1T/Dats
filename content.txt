@@ -31,7 +31,8 @@
 <dt>[28.04.18]:</dt>
 <dd>&nbsp; Началась разработка версии <font style="background-color:#ffff00;">1.6.8.0</font> с поддержкой 0.3DL.&nbsp;<img alt="wink" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/wink_smile.gif" title="wink" width="20"></dd>
 </blockquote>
-<hr><p>Версия <font style="background-color:#ffff00;">1.6.8.0</font> завершена на <b><font color="#ff0000">19%</font></b>.&nbsp;<img alt="cheeky" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/tounge_smile.gif" title="cheeky" width="20"></p>
+<hr><dt>[30.04.18]:</dt>
+<dd>&nbsp;Версия <font style="background-color:#ffff00;">1.6.8.0</font> завершена на <b><font color="#ff0000">19%</font></b>.&nbsp;<img alt="cheeky" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/tounge_smile.gif" title="cheeky" width="20"></p>
 	</body>
 
 </html>
