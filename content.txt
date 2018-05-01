@@ -24,7 +24,7 @@
 
 	<body>
 		<center>
-			<a id="test" src="https://youtu.be/9fbEtwLgnrA?t=0">
+			<a id="test" src="https://youtu.be/UpkfgoLNRc0">
 				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/advertising_2.gif"></a>
 <hr>                   
 		</center>
