@@ -34,6 +34,7 @@
 <dd>&nbsp;Версия <font style="background-color:#ffff00;">1.6.8.0</font> завершена на <b><font color="#ff0000">19%</font></b>.&nbsp;<img alt="cheeky" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/tounge_smile.gif" title="cheeky" width="20"></p>
 <hr><dt>[1.05.18]:</dt>
 <dd>&nbsp;Версия&nbsp;<font style="background-color: #ffff00;">1.6.8.0</font>&nbsp;завершена на&nbsp;<font color="#ff6600"><b>37%</b></font>.
+<hr><dt>[2.05.18]:</dt><dd>&nbsp;Версия&nbsp;<font style="background-color: #ffff00;">1.6.8.0</font>&nbsp;завершена на&nbsp;<font color="#ff9900"><b>55%</b></font>.</dd></dl>
 	</body>
 
 </html>
