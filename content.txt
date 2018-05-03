@@ -24,8 +24,8 @@
 
 	<body>
 		<center>
-			<a id="test" src="https://youtu.be/UpkfgoLNRc0">
-				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/advertising_2.gif"></a>
+			<a id="test" src="https://vk.me/write179735131">
+				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/working.gif"></a>
 <hr>                   
 		</center>
 <dt>[28.04.18]:</dt>
