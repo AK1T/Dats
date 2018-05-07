@@ -36,8 +36,8 @@
 <dd>&nbsp;Версия&nbsp;<font style="background-color: #ffff00;">1.6.8.0</font>&nbsp;завершена на&nbsp;<font color="#ff6600"><b>37%</b></font>.
 <hr><dt>[2.05.18]:</dt><dd>&nbsp;Версия&nbsp;<font style="background-color: #ffff00;">1.6.8.0</font>&nbsp;завершена на&nbsp;<font color="#ff9900"><b>55%</b></font>.</dd></dl>
 <hr>
-<p align="center"><font color="#B22222">Прогресс разработки приостановлен в связи дефицитностью временного периода.</font>&nbsp;<br>
-	<font color="#B22222">Череда реализации новой версии вновь <font color="#008000">возобновится через неделю</font>.&nbsp;&nbsp;</font></p>
+<dt>[7.05.18]:</dt><p align="center"><font color="#B22222">Прогресс разработки приостановлен в связи дефицитностью временного периода.</font>&nbsp;<br>
+	<font color="#B22222">Череда реализации новой версии вновь <font color="#008000">возобновится через неделю</font>.&nbsp;&nbsp;</font></p></p>
 	</body>
 
 </html>
