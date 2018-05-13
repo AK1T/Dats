@@ -35,6 +35,11 @@
 <hr><dt>[1.05.18]:</dt>
 <dd>&nbsp;Версия&nbsp;<font style="background-color: #ffff00;">1.6.8.0</font>&nbsp;завершена на&nbsp;<font color="#ff6600"><b>37%</b></font>.
 <hr><dt>[2.05.18]:</dt><dd>&nbsp;Версия&nbsp;<font style="background-color: #ffff00;">1.6.8.0</font>&nbsp;завершена на&nbsp;<font color="#ff9900"><b>55%</b></font>.</dd></dl>
+<hr>
+<p align="center">[<font color="#A52A2A">7</font>.<font color="#A52A2A">05</font>.<font color="#A52A2A">18</font> - <font color="#A52A2A">14</font>.<font color="#A52A2A">05</font>.<font color="#A52A2A">18</font>]<br>
+	Дефицитность временного периода.<br>
+	<br>
+	<b>Working..</b></p>
 	</body>
 
 </html>
