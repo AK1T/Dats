@@ -43,5 +43,4 @@
 	<dd>&nbsp;Версия&nbsp;<font style="background-color: #ffff00;">1.6.8.0</font>&nbsp;завершена на&nbsp;<font color="#ffcc00"><b>70%</b></font>.</dd>
 </dl>
 	</body>
-
 </html>
