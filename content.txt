@@ -26,21 +26,7 @@
 		<center>
 			<a id="test" src="https://https://youtu.be/9fbEtwLgnrA?t=0">
 				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/advertising_2.gif"></a>
-<hr>                   
-		</center>
-<dt>[28.04.18]:</dt>
-<dd>&nbsp; Началась разработка версии <font style="background-color:#ffff00;">1.6.8.0</font> с поддержкой 0.3DL.&nbsp;<img alt="wink" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/wink_smile.gif" title="wink" width="20"></dd>
-<hr><dt>[30.04.18]:</dt>
-<dd>&nbsp;Версия <font style="background-color:#ffff00;">1.6.8.0</font> завершена на <b><font color="#ff0000">19%</font></b>.&nbsp;<img alt="cheeky" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/tounge_smile.gif" title="cheeky" width="20"></p>
-<hr><dt>[1.05.18]:</dt>
-<dd>&nbsp;Версия&nbsp;<font style="background-color: #ffff00;">1.6.8.0</font>&nbsp;завершена на&nbsp;<font color="#ff6600"><b>37%</b></font>.
-<hr><dt>[2.05.18]:</dt><dd>&nbsp;Версия&nbsp;<font style="background-color: #ffff00;">1.6.8.0</font>&nbsp;завершена на&nbsp;<font color="#ff9900"><b>55%</b></font>.</dd></dl>
 <hr>
-<p align="center">[<font color="#A52A2A">7</font>.<font color="#A52A2A">05</font>.<font color="#A52A2A">18</font> - <font color="#A52A2A">17</font>.<font color="#A52A2A">05</font>.<font color="#A52A2A">18</font>]<br>
-	Дефицитность временного периода.
-<dl>
-	<hr><dt>[19.05.18]:</dt>
-	<dd>&nbsp;Версия&nbsp;<font style="background-color: #ffff00;">1.6.8.0</font>&nbsp;завершена на&nbsp;<font color="#ffcc00"><b>70%</b></font>.</dd>
-</dl>
+
 	</body>
 </html>
