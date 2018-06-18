@@ -24,9 +24,14 @@
 
 	<body>
 		<center>
-			<a id="test" src="https://vk.me/write179735131">
-				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/working.gif"></a>
+<h3 style="text-align: center;"><font face="Verdana, Geneva, sans-serif"><b><font color="#A52A2A">Новости&nbsp;<img alt="mail" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/envelope.gif" title="mail" width="20"></font></b></font></h3>
+<ul>
 <hr>
-
+<li style="text-align: center;">[18.06<span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">] Начало разработки версии </span><font style="font-family: Verdana, Geneva, sans-serif; font-size: small; background-color: #ffff00;">1.6.9.0</font><span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">.&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></li>
+<hr>
+</ul>
+<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/logo_akit.png">
+		</center>
 	</body>
+
 </html>
