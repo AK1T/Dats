@@ -23,13 +23,16 @@
 	</head>
 
 	<body>
-		<center>
+				<center>
 <h3 style="text-align: center;"><font face="Verdana, Geneva, sans-serif"><b><font color="#A52A2A">Новости&nbsp;<img alt="mail" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/envelope.gif" title="mail" width="20"></font></b></font></h3>
 <ul>
+
+		<hr></li>
+	<li style="text-align: left;"><font size="3"><b>[18.06]</b></font><span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">&nbsp;Началась&nbsp;разработка&nbsp;версии&nbsp;</span><font style="font-family: Verdana, Geneva, sans-serif; font-size: small; background-color: #ffff00;">1.6.9.0</font><span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">.</span><br>
+		&nbsp;</li>
 <hr>
-<li style="text-align: center;">[18.06<span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">] Начало разработки версии </span><font style="font-family: Verdana, Geneva, sans-serif; font-size: small; background-color: #ffff00;">1.6.9.0</font><span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">.&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></li>
+	<li style="text-align: left;"><font size="2"><font size="3"><b>[21.06]&nbsp;</b></font><font face="Verdana, Geneva, sans-serif">Версия <font style="background-color:#ffff00;">1.6.9.0</font> завершена на <b><font color="#ff0000">20</font>%</b>.</font></font></li>
 <hr>
-</ul>
 <img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/logo_akit.png">
 		</center>
 	</body>
