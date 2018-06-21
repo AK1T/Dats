@@ -53,7 +53,7 @@
 </p>
 <center>
 <center>
-	<p><var>Уважаемые пользователи! Пишите, что бы вы хотели видеть&nbsp;в новоизбранной версии, и возможно именно ваши&nbsp;предложения будут реализованы! Помимо этого, сообщайте о всех существующих на данный момент проблемах и ошибках.&nbsp;<img alt="wink" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/wink_smile.gif" title="wink" width="20"></var><br>
+	<p><var>Уважаемые пользователи! Пишите, что бы вы хотели видеть&nbsp;в новоизбранной версии, и, возможно, именно ваши&nbsp;предложения будут реализованы! Помимо этого, сообщайте о всех существующих на данный момент проблемах и ошибках.&nbsp;<img alt="wink" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/wink_smile.gif" title="wink" width="20"></var><br>
 		&nbsp;</p>
 	<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a id="test" src="https://vk.me/write179735131">Аким Кидеев (AKiT)</a></p>
 	<p align="right">&nbsp;</p>
