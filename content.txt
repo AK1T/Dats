@@ -62,5 +62,6 @@
 	<ul>
 		<li style="text-align: left;">&nbsp;</li>
 	</ul>
+<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/logo_akit.png">
 </center>
 
