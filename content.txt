@@ -33,7 +33,6 @@
 <hr>
 	<li style="text-align: left;"><font size="2"><font size="3"><b>[21.06]&nbsp;</b></font><font face="Verdana, Geneva, sans-serif">Версия <font style="background-color:#ffff00;">1.6.9.0</font> завершена на <b><font color="#ff0000">20</font>%</b>.</font></font></li>
 <hr>
-<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/logo_akit.png">
 		</center>
 	</body>
 
