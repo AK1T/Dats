@@ -24,6 +24,8 @@
 
 	<body>
 				<center>
+			<a id="test" src="https://drive.google.com/uc?export=download&id=0B6ZZQn0BVqVXS29IaGh3bWhNcWs">
+				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/MOSHED.gif"></a>       
 <h3 style="text-align: center;"><font face="Verdana, Geneva, sans-serif"><b><font color="#A52A2A">Новости&nbsp;<img alt="mail" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/envelope.gif" title="mail" width="20"></font></b></font></h3>
 <ul>
 
