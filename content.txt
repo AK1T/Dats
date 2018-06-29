@@ -26,7 +26,8 @@
 				<center>
 			<a id="test" src="https://drive.google.com/uc?export=download&id=0B6ZZQn0BVqVXS29IaGh3bWhNcWs">
 				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/MOSHED.gif"></a>       
-<h3 style="text-align: center;"><font face="Verdana, Geneva, sans-serif"><b><font color="#A52A2A">Новости&nbsp;<img alt="mail" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/envelope.gif" title="mail" width="20"></font></b></font></h3>
+<h3 style="text-align: center;"><font face="Verdana, Geneva, sans-serif"><b><font color="#A52A2A">Новости 📰</font></b></font></h3>
+<ul>
 <ul>
 
 		<hr></li>
@@ -34,7 +35,10 @@
 		&nbsp;</li>
 <hr>
 	<li style="text-align: left;"><font size="2"><font size="3"><b>[21.06]&nbsp;</b></font><font face="Verdana, Geneva, sans-serif">Версия <font style="background-color:#ffff00;">1.6.9.0</font> завершена на <b><font color="#ff0000">20</font>%</b>.</font></font></li>
+
 <hr>
+	<li style="text-align: left;"><font size="2"><font size="3"><b>[30.06]&nbsp;</b></font><font face="Verdana, Geneva, sans-serif">Версия <font style="background-color:#ffff00;">1.6.9.0</font> завершена на <b><font color="#FF3C01">34</font>%</b>.  Стоит немного потерпеть. Это того стоит!  <img alt="wink" height="20" src="https://pic.sopili.net/pub/emoji/apple/64/1f61c.png" title="wink" width="20"></p></font></font></li>
+<hr>       
 <p>
 	<meta charset="utf-8">
 	<style type="text/css">*
@@ -59,4 +63,4 @@
 	</ul>
 <img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/logo_akit.png">
 </center>
-
+<a href="https://vk.com/akit_com" target="_blank">Аким Кидеев (AKiT)</a>
