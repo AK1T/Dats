@@ -26,7 +26,7 @@
 				<center>
 			<a id="test" src="https://drive.google.com/uc?export=download&id=0B6ZZQn0BVqVXS29IaGh3bWhNcWs">
 				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/MOSHED.gif"></a>       
-<h3 style="text-align: center;"><font face="Verdana, Geneva, sans-serif"><b><font color="#A52A2A">Новости 📰</font></b></font></h3>
+<h3 style="text-align: center;"><font face="Verdana, Geneva, sans-serif"><b><font color="#A52A2A">Новости <img alt="wink" height="20" src="https://vk.com/images/emoji/D83DDCF0_2x.png" title="wink" width="20"></font></b></font></h3>
 <ul>
 <ul>
 
