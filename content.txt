@@ -39,7 +39,9 @@
 <hr>
 	<li style="text-align: left;"><font size="2"><font size="3"><b>[30.06]&nbsp;</b></font><font face="Verdana, Geneva, sans-serif">Версия <font style="background-color:#ffff00;">1.6.9.0</font> завершена на <b><font color="#FF6131">34</font>%</b>.  </p></font></font></li>
 <hr>
-<li style="text-align: left;"><font size="2"><font size="3"><b>[06.07]&nbsp;</b></font><font face="Verdana, Geneva, sans-serif">Версия <font style="background-color:#ffff00;">1.6.9.0</font> завершена на <b><font color="#FF9001">41</font>%</b>.  Стоит немного потерпеть. Это того стоит!  <img alt="wink" height="20" src="https://pic.sopili.net/pub/emoji/apple/64/1f61c.png" title="wink" width="20"></p></font></font></li>
+<li style="text-align: left;"><font size="2"><font size="3"><b>[06.07]&nbsp;</b></font><font face="Verdana, Geneva, sans-serif">Версия <font style="background-color:#ffff00;">1.6.9.0</font> завершена на <b><font color="#FF9001">41</font>%</b>.</p></font></font></li>
+<hr>
+<li style="text-align: left;"><font size="2"><font size="3"><b>[15.07]&nbsp;</b></font><font face="Verdana, Geneva, sans-serif">Версия <font style="background-color:#ffff00;">1.6.9.0</font> завершена на <b><font color="#FFAB00">55</font>%</b>.  Стоит немного потерпеть. Это того стоит!  <img alt="wink" height="20" src="https://pic.sopili.net/pub/emoji/apple/64/1f61c.png" title="wink" width="20"></p></font></font></li>
 <hr>       
 <p>
 	<meta charset="utf-8">
