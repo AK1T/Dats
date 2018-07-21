@@ -24,25 +24,17 @@
 
 	<body>
 				<center>
-			<a id="test" src="https://drive.google.com/uc?export=download&id=0B6ZZQn0BVqVXS29IaGh3bWhNcWs">
-				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/MOSHED.gif"></a>       
+			<a id="test" src="https://vk.com/akit_com">
+				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/working.gif"></a>       
 <h3 style="text-align: center;"><font face="Verdana, Geneva, sans-serif"><b><font color="#A52A2A">Новости <img alt="wink" height="20" src="https://vk.com/images/emoji/D83DDCF0_2x.png" title="wink" width="20"></font></b></font></h3>
 <ul>
 <ul>
 
 		<hr></li>
-	<li style="text-align: left;"><font size="3"><b>[18.06]</b></font><span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">&nbsp;Началась&nbsp;разработка&nbsp;версии&nbsp;</span><font style="font-family: Verdana, Geneva, sans-serif; font-size: small; background-color: #ffff00;">1.6.9.0</font><span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">.</span><br>
+	<li style="text-align: left;"><font size="3"><b>[21.07]</b></font><span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">&nbsp;Состоялся&nbsp;выход&nbsp;обновленной&nbsp;версии&nbsp;</span><font style="font-family: Verdana, Geneva, sans-serif; font-size: small; background-color: #ffff00;">1.6.9.0</font><span style="font-family: Verdana, Geneva, sans-serif; font-size: small;">. ✅</span> Подробнее о нововведениях: 👉<a id="test" src="https://gta-samp.ru/forum/index.php?/topic/391350-binder-%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-binder-by-akit/&do=findComment&comment=4192522">посмотреть</a></strong>👈<br> 
 		&nbsp;</li>
 <hr>
-	<li style="text-align: left;"><font size="2"><font size="3"><b>[21.06]&nbsp;</b></font><font face="Verdana, Geneva, sans-serif">Версия <font style="background-color:#ffff00;">1.6.9.0</font> завершена на <b><font color="#ff0000">20</font>%</b>.</font></font></li>
-
-<hr>
-	<li style="text-align: left;"><font size="2"><font size="3"><b>[30.06]&nbsp;</b></font><font face="Verdana, Geneva, sans-serif">Версия <font style="background-color:#ffff00;">1.6.9.0</font> завершена на <b><font color="#FF6131">34</font>%</b>.  </p></font></font></li>
-<hr>
-<li style="text-align: left;"><font size="2"><font size="3"><b>[06.07]&nbsp;</b></font><font face="Verdana, Geneva, sans-serif">Версия <font style="background-color:#ffff00;">1.6.9.0</font> завершена на <b><font color="#FF9001">41</font>%</b>.</p></font></font></li>
-<hr>
-<li style="text-align: left;"><font size="2"><font size="3"><b>[15.07]&nbsp;</b></font><font face="Verdana, Geneva, sans-serif">Версия <font style="background-color:#ffff00;">1.6.9.0</font> завершена на <b><font color="#FFAB00">55</font>%</b>.  Стоит немного потерпеть. Это того стоит!  <img alt="wink" height="20" src="https://pic.sopili.net/pub/emoji/apple/64/1f61c.png" title="wink" width="20"></p></font></font></li>
-<hr>       
+      
 <p>
 	<meta charset="utf-8">
 	<style type="text/css">*
