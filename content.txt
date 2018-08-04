@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<style type="text/css">
+			*
+			{
+				margin: 0;
+				padding: 0;
+			}
+			a
+			{
+				color: #0000FF;
+				cursor: pointer;
+				text-decoration: underline;
+			}
+			a:hover
+			{
+				text-decoration: none;
+			}
+		</style>
+	</head>
+
+	<body>
+				<center>
+			<a id="test" src="https://vk.com/akit_com">
+				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/working.gif"></a>       
+
+
+
+<hr>
+      
+<p>
+	<meta charset="utf-8">
+	<style type="text/css">*
+			{
+				margin: 0;
+				padding: 0;
+			}
+			a
+			{
+				color: #0000FF;
+				cursor: pointer;
+				text-decoration: underline;
+			}
+			a:hover
+			{
+				text-decoration: none;
+			}</style>
+</p>
+<center>
+	<ul>
+		<li style="text-align: left;">&nbsp;</li>
+	</ul>
+		<p><img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/logo_akit.png"><br>
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a id="test" src="https://vk.com/akit_com">Аким Кидеев (AKiT)</a></strong><br></p>
+</center>
