@@ -25,7 +25,7 @@
 	<body>
 				<center>
 			<a id="test" src="https://docs.google.com/document/d/1xFvHrNcjgAVP4_6N6fpsEb-UsF3jyHaYGGmKQDxfAx4/edit?usp=sharing">
-				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/background_5.jpg"></a>       
+				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/background_6.gif"></a>       
 
 
 
