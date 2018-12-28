@@ -24,49 +24,93 @@
 
 	<body>
 		<center>                   
-<hr><blockquote><p><strong>Услуги по размещению рекламы при условии соблюдения рекламодателем следующих требований:</strong></p>•Рекламные материалы должны соответствовать требованиям действующего законодательства РФ.<br>
-•Отсутствие бранных слов, непристойные и оскорбительные образы, сравнения и выражения в отношении пола, расы и национальности.<br>•Запрещено побуждение к совершению противоправных действий и/или призыв к насилию и жестокости.<br>
-•Недопустима публикация к касающиму трагическому событию/шокирующему контенту.</blockquote><hr>                       
-<p style="color: green;"><strong>Стоимостные показатели услуги оговариваются с <a id="test" src="https://vk.com/akit_com">правообладателем</a>.</strong><br></p>
-<p style="color: green;"><strong>Максимальный период публикации рекламы — 7 суток.</strong><br></p>
-
- • Текущая версия: 1.7.0.0
-[v.1.6.9.9]:
-
-• Исправления/Доработка биндера.
-
-[v.1.6.9.5 by 12.09.18]:
-
-• Изменена позиция конфиденциальности, версия согласована 
-и переведена в статус «Сonclusion».
-
-• Исправлена проблема при ложном срабатывании пробела 
-при открытом окне игрового интерфейса.
-
-• Менеджер обновлений отныне работает корректно.
-
-• Исправление некоторых недочетов.
-
-[v.1.6.9.0 by 21.07.18]:
-
-• Уменьшена задержка работоспособности WeaponsAssistant. 
-Отныне работает резво.
-
-• Возможность редактировать отыгровки убирания оружия 
-в WeaponsAssistant.
-
-• Добавлен новый тег <DamageID>. 
-Определяет ID игрока который последний нанес Вам урон.
-
-• Добавлена функция уведомления о получении урона игроком 
-(Ник [ID] | оружие | расстояние). Включить можно в настройках.
-
-• Добавлено в горячие клавиши - Shift + End
-Моментально закрывает процесс игры.
-
-• Исправления/Доработка биндера.
-
-<img src="">
+<hr>
+<blockquote>
+	<p><strong>Текущая версия: <font color="#339900">1.7.0.0<br>
+		<b><font color="#000000">Дата обновления: <font color="#DAA520">30.12.18</font></font></b></font></strong></p>
+	<hr><font color="#0000CD"><i><b><code><font style="background-color:#f0f8ff;">- Друзья, и</font></code></b></i><i><b><code><font style="background-color:#f0f8ff;">скренне поздравляю вас с</font></code></b></i><i><b><code><font style="background-color:#f0f8ff;">&nbsp;наступающим Новым&nbsp;Годом и Рождеством!&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-&nbsp;</font></code></b></i><i><b><code><font style="background-color:#f0f8ff;">Желаю Вам в грядущем году быть в окружении исключительно положительных и доброжелательных людей, переживать только приятные эмоции, радоваться каждому прожитому дню, дарить радость и улыбки окружающим. И пусть этот Новый год станет для Вас особенным.</font>&nbsp;<img alt="wink" height="20" src="https://filyanin.ru/tools/ckeditor/plugins/smiley/images/wink_smile.gif" title="wink" width="20">&nbsp;</code></b></i></font><br>
+	<address>
+		<hr><br>
+		<br>
+		<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font size="3">[v.1.7.0.0]</font>:</samp></code></b><br>
+		<br>
+		&nbsp;</address>
+	<div><br>
+		<font color="#336699"><font face="Arial, Helvetica, sans-serif"><b><code><samp><font size="3">[v.1.6.9.9 by 21.10.18]</font>:</samp></code></b></font></font></div>
+	<div>&nbsp;</div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправления/Доработка биндера.</samp></code></b></i></font></div>
+	<div>&nbsp;</div>
+	<div><font color="#336699"><font face="Arial, Helvetica, sans-serif"><b><code><samp>[v.1.6.9.5 by 12.09.18]:</samp></code></b></font></font></div>
+	<div>&nbsp;</div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Изменена позиция конфиденциальности, версия согласована&nbsp;</samp></code></b></i></font></div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>и переведена в статус &laquo;Сonclusion&raquo;.</samp></code></b></i></font></div>
+	<div>&nbsp;</div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправлена проблема при ложном срабатывании пробела&nbsp;</samp></code></b></i></font></div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>при открытом окне игрового интерфейса.</samp></code></b></i></font></div>
+	<div>&nbsp;</div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Менеджер обновлений отныне работает корректно.</samp></code></b></i></font></div>
+	<div>&nbsp;</div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправление некоторых недочетов.</samp></code></b></i></font></div>
+	<div>&nbsp;</div>
+	<div><font color="#336699"><font face="Arial, Helvetica, sans-serif"><b><code><samp>[v.1.6.9.0 by 21.07.18]:</samp></code></b></font></font></div>
+	<div>&nbsp;</div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Уменьшена задержка работоспособности WeaponsAssistant.&nbsp;</samp></code></b></i></font></div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>Отныне работает резво.</samp></code></b></i></font></div>
+	<div>&nbsp;</div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Возможность редактировать отыгровки убирания оружия&nbsp;</samp></code></b></i></font></div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>в WeaponsAssistant.</samp></code></b></i></font></div>
+	<div>&nbsp;</div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Добавлен новый тег &lt;DamageID&gt;.&nbsp;</samp></code></b></i></font></div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>Определяет ID игрока который последний нанес Вам урон.</samp></code></b></i></font></div>
+	<div>&nbsp;</div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Добавлена функция уведомления о получении урона игроком&nbsp;</samp></code></b></i></font></div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>(Ник [ID] | оружие | расстояние). Включить можно в настройках.</samp></code></b></i></font></div>
+	<div>&nbsp;</div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Добавлено в горячие клавиши - Shift + End</samp></code></b></i></font></div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>Моментально закрывает процесс игры.</samp></code></b></i></font></div>
+	<div>&nbsp;</div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправления/Доработка биндера.<br>
+		<br>
+		<br>
+		№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№</samp></code></b></i></font><br>
+		<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp>[v.1.6.6.0 by 22.02.18]:</samp></code></b><br>
+		<br>
+		<div><code><i><b>&bull; Переработана большая часть интерфейса ПО.</b></i></code><br>
+			&nbsp;</div>
+		<div><code><i><b>&bull; Pget и recon - эти функции были существенно доработаны, а также доработка коснулась всего общего (ИК) портирования ПО.</b></i></code><br>
+			&nbsp;</div>
+		<div><code><i><b>&bull; Добавлены функции эффекта: /nigvis (ПНВ) и /thvis (ПТВ).</b></i></code><br>
+			&nbsp;</div>
+		<div><code><i><b>&bull;Добавлена функция /mytime - посмотреть время игры за сеанс.</b></i></code><br>
+			&nbsp;</div>
+		<div><code><i><b>&bull;Улучшено качество вызова функций командами.﻿</b></i></code></div>
+		<div>&nbsp;</div>
+		<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp>[v.1.6.3.0 by 31.12.17]:</samp></code></b><br>
+		<h4><b><font color="#000000"><font face="Comic Sans MS, cursive"><code><samp>&bull;&nbsp;</samp></code></font></font><i><code>В качестве новогоднего подарка - НОВАЯ (секретная) команда /hype.&nbsp;<font color="#A52A2A">(Удалена)</font></code></i></b></h4>
+		<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp>[v.1.6.2.0 by 28.11.17]:</samp></code></b><br>
+		<br>
+		<div><font color="#000000"><b><i><font face="Comic Sans MS, cursive"><code><samp>&bull;&nbsp;</samp></code></font><samp>Новая система обновлений.</samp></i></b></font><br>
+			&nbsp;</div>
+		<div><font color="#000000"><b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Поддержк﻿а команд биндера серверами.</samp></i></b></font><br>
+			&nbsp;</div>
+		<div><font color="#000000"><b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Новый тег &lt;day&gt; (Пишет текущий день неде﻿ли).﻿﻿</samp></i></b></font><br>
+			<h4><b><i><code>&nbsp;</code></i></b></h4>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		&nbsp;</div>
+	<div><br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		&nbsp;</div>
+</blockquote>
 		</center>
 	</body>
 
