@@ -19,6 +19,7 @@
 			}</style>
 </p>
 <center>
+<body bgcolor="#f0f0f0">
 	<hr>
 	<blockquote>
 		<p align="left"><strong>Текущая версия: <font color="#339900"><font color="#336699">1.7.0.0</font><br>
