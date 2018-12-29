@@ -136,10 +136,10 @@
 				&nbsp;</p>
 			<div style="text-align: left;"><font color="#000000"><b><i><font face="Comic Sans MS, cursive"><code><samp>&bull;&nbsp;</samp></code></font><samp>Новая система обновлений.</samp></i></b></font><br>
 				&nbsp;</div>
-			<div style="text-align: left;"><font color="#000000"><b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Поддержк﻿а команд биндера серверами.</samp></i></b></font><br>
+			<div style="text-align: left;"><font color="#000000"><b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Поддержка команд биндера серверами.</samp></i></b></font><br>
 				&nbsp;</div>
 			<div>
-				<p align="left"><font color="#000000"><b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Новый тег &lt;day&gt; (Пишет текущий день неде﻿ли).﻿﻿</samp></i></b></font></p>
+				<p align="left"><font color="#000000"><b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Новый тег &lt;day&gt; (Пишет текущий день недели).</samp></i></b></font></p>
 				<h4 style="text-align: left;"><b><i><code>&nbsp;</code></i></b></h4>
 			</div>
 		</div>
