@@ -122,7 +122,7 @@
 				&nbsp;</div>
 			<div style="text-align: left;"><code><i><b>&bull; Добавлена функция /mytime - посмотреть время игры за сеанс.</b></i></code><br>
 				&nbsp;</div>
-			<div style="text-align: left;"><code><i><b>&bull; Улучшено качество вызова функций командами.﻿</b></i></code><br>
+			<div style="text-align: left;"><code><i><b>&bull; Улучшено качество вызова функций командами.</b></i></code><br>
 				&nbsp;</div>
 			<div style="text-align: left;">&nbsp;</div>
 			<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.3.0 by 31.12.17]</font>:</samp></code></b><br>
@@ -136,7 +136,7 @@
 			<div style="text-align: left;"><font color="#000000"><b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Поддержк﻿а команд биндера серверами.</samp></i></b></font><br>
 				&nbsp;</div>
 			<div>
-				<p align="left"><font color="#000000"><b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Новый тег &lt;day&gt; (Пишет текущий день неде﻿ли).﻿﻿</samp></i></b></font></p>
+				<p align="left"><font color="#000000"><b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Новый тег &lt;day&gt; (Пишет текущий день недели).</samp></i></b></font></p>
 				<h4 style="text-align: left;"><b><i><code>&nbsp;</code></i></b></h4>
 			</div>
 		</div>
