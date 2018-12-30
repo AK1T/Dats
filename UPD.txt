@@ -34,10 +34,14 @@
 	<blockquote style="text-align: left;"><br>
 		<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f195.png" width="16">&nbsp;<b style="text-align: left; color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font size="3"><font style="background-color:#add8e6;">[v.1.7.0.0]</font></font>:</samp></code></b></blockquote>
 	<blockquote><br>
-		<address style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>&nbsp;Изменено окно списка обновлений.</code></b></i><br>
-			<br>
-			<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>&nbsp;Исправлена команда /sh (Шпаргалки). Отныне работает корректно.&nbsp;</code></b></i><br>
-			<br>
+		<address style="text-align: left;"><i><b><code><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16">&nbsp;Добавлена функция Авто-доклад.<br>
+	*Функция находится в главном меню за место кнопки &quot;Директория&quot;.<br>
+	*Открыть директорию теперь можно в настройках.</code></b></i><br>
+	&nbsp;</address>
+<address style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>&nbsp;Изменено окно списка обновлений.</code></b></i><br>
+	<br>
+	<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>&nbsp;Исправлена команда /sh (Шпаргалки). Отныне работает корректно.&nbsp;</code></b></i><br>
+	&nbsp;</address>
 			<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>&nbsp;Исправлена/Доработана функция уведомления о нанесении урона игроком.</code></b></i><br>
 			<br>
 			<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>&nbsp;Исправлена/Доработана команда /pget (Информация о игроках в зоне стрима)</code></b></i></address>
