@@ -25,7 +25,7 @@
 
 	<body>
 				<center>
-			<a id="test" src="https://clck.ru/EyrRq">
+			<a id="test" src="https://clck.ru/EyrQv">
 				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/background_7.gif"></a>       
 
 
