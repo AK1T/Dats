@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<body bgcolor="#f0f0f0">
 <html>
 
 	<head>
