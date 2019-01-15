@@ -27,9 +27,7 @@
 		<center>
       <img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/background_7.gif"> 
     </center>
-	</body>
-<hr>
-      
+	</body>     
 <p>
 	<meta charset="utf-8">
 	<style type="text/css">*
