@@ -3,6 +3,7 @@
 	<img height="36" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f918.png" width="36"><img height="48" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f92a.png" width="48"><br>
 	&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>
 	<meta charset="utf-8">
 	<style type="text/css">*
@@ -25,7 +26,9 @@
 	<hr></center>
 <blockquote>
 	<p align="left"><strong>Текущая версия:&nbsp;</strong><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/31-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/37-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/30-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/30-20e3.png" width="16"></p>
-	<p align="left"><strong><font color="#339900"><b><font color="#000000">Дата обновления:&nbsp;</font></b></font></strong><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0033_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0038_20e3.png" width="16"></p>
+	<p><strong><font color="#339900"><b><font color="#000000">Дата обновления:&nbsp;</font></b></font></strong><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0033_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0038_20e3.png" width="16"><br>
+		&nbsp;</p>
+	<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f538.png" width="16"><font face="Tahoma, Geneva, sans-serif"><b><font size="2"><font color="#A52A2A">В разработке: </font></font></b></font><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><font face="Tahoma, Geneva, sans-serif"><b><font size="2"><font color="#A52A2A"><font color="#000000">.</font></font></font></b></font><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0038_20e3.png" width="16"><font face="Tahoma, Geneva, sans-serif"><b><font size="2"><font color="#A52A2A"><font color="#000000">.</font></font></font></b></font><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0030_20e3.png" width="16"><font face="Tahoma, Geneva, sans-serif"><b><font size="2"><font color="#A52A2A"><font color="#000000">.</font></font></font></b></font><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0030_20e3.png" width="16"><font face="Tahoma, Geneva, sans-serif"><b><font size="2"><font color="#A52A2A">&nbsp;</font></font></b></font><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f538.png" width="16"><br>
 	<hr>
 	<blockquote style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f195.png" width="16">&nbsp;<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font size="3"><font style="background-color:#add8e6;">[v.1.7.0.0]</font></font>:</samp></code></b></blockquote>
 	<address style="text-align: left;"><i><b><code>&nbsp; &nbsp; &nbsp;&nbsp;<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16">&nbsp;Добавлена функция Авто-доклад.<br>
@@ -38,6 +41,8 @@
 		<br>
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>&nbsp;Исправлена/Доработана функция уведомления о нанесении урона игроком.</code></b></i><br>
 		&nbsp;</address>
+</blockquote>
+
 	<blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>&nbsp;Исправлена/Доработана команда /pget (Информация о игроках в зоне стрима)</code></b></i></blockquote>
 	<div style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u2139.png" width="16">&nbsp;<i><b><code><u>Команда теперь присваивается для горячих клавиш <font size="4">(<font style="background-color:#ffffe0;">Shift &amp; Home</font>)</font></u>.</code></b></i><br>
 		&nbsp;</div>
