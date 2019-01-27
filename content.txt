@@ -25,7 +25,7 @@
 
               <body>
 		<center>
-      <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/change.gif"> 
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/change.gif"> 
     </center>
 	</body>     
 <p>
