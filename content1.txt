@@ -25,7 +25,7 @@
 
               <body>
 		<center>
-      <img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/binZ_aK1T.gif"> 
+      <img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/AKiTCom_Bi.gif"> 
     </center>
 	</body>     
 <p>
