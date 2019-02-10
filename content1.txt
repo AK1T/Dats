@@ -25,7 +25,7 @@
 
               <body>
 		<center>
-      <img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/AKiTCom_Bi.gif"> 
+      <img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/.gif"> 
     </center>
 	</body>     
 <p>
@@ -51,5 +51,5 @@
 		<li style="text-align: left;">&nbsp;</li>
 	</ul>
 		<p><img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/logo_akit.png"><br>
-		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a id="test" src="https://vk.com/akit_com">¿ÍËÏ  Ë‰ÂÂ‚ | Alex Kit (AKiT)</a></strong><br></p>
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a id="test" src="https://vk.com/akit_com">√Ä√™√®√¨ √ä√®√§√•√•√¢ | Alex Kit (AKiT)</a></strong><br></p>
 </center>
