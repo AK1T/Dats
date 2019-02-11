@@ -31,23 +31,22 @@
 	<hr>
 	<blockquote style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f195.png" width="16">&nbsp;<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font size="3"><font style="background-color:#add8e6;">[v.1.8.0.0]</font></font>:</samp></code></b></blockquote>
 	<br>
-</blockquote>
 <p>&nbsp;</p>
 <blockquote>
 	<address style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i style="font-family: monospace;"><b>Добавлена функция фиксирования/захвата цели с 3-я вариантами захвата<br>
-		&nbsp; (Grab Target в настройках).</b></i></address>
-</blockquote>
-<p>&nbsp;</p>
-<blockquote>
-	<p align="left"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлена функция оповещений по строке.</code></b></i><br>
+		&nbsp; (Grab Target в настройках).</b></i><br>
+		<br>
+		<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлена функция оповещений по строке.</code></b></i><br>
 		&nbsp;<code><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u2139.png" width="16"><i><b>Кнопка функции находится в главном меню.</b></i></code><br>
 		<br>
-		<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлены 2 новых тега: &lt;TargetID&gt; и &lt;OVehicleID&gt;. Подробнее: Помощь &gt; Теги.</code></b></i><br>
-		<br>
-		<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлена возможность ставить свое сочетание клавиш для паузы биндера<br>
-		&nbsp; (в настройках).</code></b></i><br>
-		&nbsp;</p>
+		<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлены 2 новых тега: &lt;TargetID&gt; и &lt;OVehicleID&gt;. Подробнее: Помощь &gt; Теги.</code></b></i></address>
+	<br>
+	<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлена возможность ставить свое сочетание клавиш для паузы биндера<br>
+	&nbsp; (в настройках).</code></b></i><br>
+	&nbsp;
+	<p>&nbsp;</p>
 </blockquote>
+
 <p><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><code><i><b>В Weapons-Assistant добавлена отыгровка обреза и скорострельного дробовика.</b></i></code><br>
 	<br>
 	<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Обширная часть исправлений/доработок биндера.</code></b></i></p>
