@@ -31,6 +31,9 @@
 	<hr>
 	<blockquote style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f195.png" width="16">&nbsp;<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font size="3"><font style="background-color:#add8e6;">[v.1.8.0.0]</font></font>:</samp></code></b></blockquote>
 	<br>
+</blockquote>
+<p>&nbsp;</p>
+<blockquote>
 	<address style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i style="font-family: monospace;"><b>Добавлена функция фиксирования/захвата цели с 3-я вариантами захвата<br>
 		&nbsp; (Grab Target в настройках).</b></i></address>
 </blockquote>
