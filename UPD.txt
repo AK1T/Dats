@@ -30,44 +30,40 @@
 	<p><strong><font color="#339900"><b><font color="#000000">Дата обновления:&nbsp;</font></b></font></strong><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0030_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0039_20e3.png" width="16"></p>
 	<hr>
 	<blockquote style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f195.png" width="16">&nbsp;<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font size="3"><font style="background-color:#add8e6;">[v.1.8.0.0]</font></font>:</samp></code></b></blockquote>
-	<br>
-<p>&nbsp;</p>
-<blockquote>
-	<address style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i style="font-family: monospace;"><b>Добавлена функция фиксирования/захвата цели с 3-я вариантами захвата<br>
-		&nbsp; (Grab Target в настройках).</b></i><br>
-		<br>
-		<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлена функция оповещений по строке.</code></b></i><br>
-		&nbsp;<code><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u2139.png" width="16"><i><b>Кнопка функции находится в главном меню.</b></i></code><br>
-		<br>
-		<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлены 2 новых тега: &lt;TargetID&gt; и &lt;OVehicleID&gt;. Подробнее: Помощь &gt; Теги.</code></b></i></address>
-	<br>
-	<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлена возможность ставить свое сочетание клавиш для паузы биндера<br>
-	&nbsp; (в настройках).</code></b></i><br>
-	&nbsp;
 	<p>&nbsp;</p>
-</blockquote>
-
-<p><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><code><i><b>В Weapons-Assistant добавлена отыгровка обреза и скорострельного дробовика.</b></i></code><br>
-	<br>
-	<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Обширная часть исправлений/доработок биндера.</code></b></i></p>
-<p><code><i><b>&nbsp;</b></i></code>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<div style="text-align: left;"><font face="Arial, Helvetica, sans-serif"><font size="3"><b><font color="#336699"><code><samp><font style="background-color: #d3d3d3;">[v.1.7.0.0 by 31.12.18]</font>:</samp></code></font></b></font></font><br>
-	<br>
-	<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлена функция Авто-доклад.<br>
-	*Функция находится в главном меню за место кнопки &quot;Директория&quot;.<br>
-	*Открыть директорию теперь можно в настройках.</code></b></i><br>
-	<br>
-	<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Изменено окно списка обновлений.</code></b></i><br>
-	<br>
-	<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена команда /sh (Шпаргалки). Отныне работает корректно.</code></b></i><br>
-	<br>
-	<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана функция уведомления о нанесении урона игроком.</code></b></i><br>
-	<br>
-	<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана команда /pget (Информация о игроках в зоне стрима)</code></b></i></div>
-<div><code><font face="Tahoma">*</font><u style="font-style: italic; font-weight: bold;">Команда теперь присваивается для горячих клавиш&nbsp;<font size="4">(<font size="3"><font style="background-color: #ffffe0;">Shift &amp; Home</font></font>)</font></u><b style="font-style: italic;">.</b></code><br>
-	&nbsp;</div>
-<p align="left"><font face="Arial, Helvetica, sans-serif"><font size="3"><b><font color="#336699"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.9.9 by 21.10.18]</font>:</samp></code></font></b></font></font><br>
-	&nbsp;</p>
+	<blockquote>
+		<address style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i style="font-family: monospace;"><b>Добавлена функция фиксирования/захвата цели с 3-я вариантами захвата<br>
+			&nbsp; (Grab Target в настройках).</b></i><br>
+			<br>
+			<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлена функция оповещений по строке.</code></b></i><br>
+			&nbsp;<code><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u2139.png" width="16"><i><b>Кнопка функции находится в главном меню.</b></i></code><br>
+			<br>
+			<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлены 2 новых тега: &lt;TargetID&gt; и &lt;OVehicleID&gt;. Подробнее: Помощь &gt; Теги.</code></b></i></address>
+		<br>
+		<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлена возможность ставить свое сочетание клавиш для паузы биндера<br>
+		&nbsp; (в настройках).</code></b></i><br>
+		&nbsp;</blockquote>
+	<p><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><code><i><b>В Weapons-Assistant добавлена отыгровка обреза и скорострельного дробовика.</b></i></code><br>
+		<br>
+		<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Обширная часть исправлений/доработок биндера.</code></b></i></p>
+	<p><code><i><b>&nbsp;</b></i></code>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+	<div style="text-align: left;"><font face="Arial, Helvetica, sans-serif"><font size="3"><b><font color="#336699"><code><samp><font style="background-color: #d3d3d3;">[v.1.7.0.0 by 31.12.18]</font>:</samp></code></font></b></font></font><br>
+		<br>
+		<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлена функция Авто-доклад.<br>
+		*Функция находится в главном меню за место кнопки &quot;Директория&quot;.<br>
+		*Открыть директорию теперь можно в настройках.</code></b></i><br>
+		<br>
+		<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Изменено окно списка обновлений.</code></b></i><br>
+		<br>
+		<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена команда /sh (Шпаргалки). Отныне работает корректно.</code></b></i><br>
+		<br>
+		<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана функция уведомления о нанесении урона игроком.</code></b></i><br>
+		<br>
+		<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана команда /pget (Информация о игроках в зоне стрима)</code></b></i></div>
+	<div><code><font face="Tahoma">*</font><u style="font-style: italic; font-weight: bold;">Команда теперь присваивается для горячих клавиш&nbsp;<font size="4">(<font size="3"><font style="background-color: #ffffe0;">Shift &amp; Home</font></font>)</font></u><b style="font-style: italic;">.</b></code><br>
+		&nbsp;</div>
+	<p align="left"><font face="Arial, Helvetica, sans-serif"><font size="3"><b><font color="#336699"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.9.9 by 21.10.18]</font>:</samp></code></font></b></font></font><br>
+		&nbsp;</p>
 <div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправления/Доработка биндера.</samp></code></b></i></font></div>
 <div style="text-align: left;">&nbsp;</div>
 <div style="text-align: left;"><font color="#336699"><font face="Arial, Helvetica, sans-serif"><b><code><samp><font style="background-color:#d3d3d3;">[v.1.6.9.5 by 12.09.18]</font>:</samp></code></b></font></font></div>
