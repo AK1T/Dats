@@ -26,28 +26,28 @@
 <center>
 	<hr></center>
 <blockquote>
-	<p align="left"><strong>Текущая версия:&nbsp;</strong><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/31-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/38-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/30-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/30-20e3.png" width="16"></p>
+	<p align="left"><strong>Актуальная версия:&nbsp;</strong><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/31-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/38-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/30-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/30-20e3.png" width="16"></p>
 	<p><strong><font color="#339900"><b><font color="#000000">Дата обновления:&nbsp;</font></b></font></strong><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0030_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0039_20e3.png" width="16"></p>
 	<hr>
 	<blockquote style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f195.png" width="16">&nbsp;<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font size="3"><font style="background-color:#add8e6;">[v.1.8.0.0]</font></font>:</samp></code></b></blockquote>
 	<br>
-	<address style="text-align: left;"><i style="font-family: monospace;"><b>&nbsp; &nbsp; &nbsp; &nbsp;</b></i><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i style="font-family: monospace;"><b>Добавлена функция фиксирования/захвата цели с 3-я вариантами захвата<br>
-		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(Grab Target в настройках).</b></i></address>
+	<address style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i style="font-family: monospace;"><b>Добавлена функция фиксирования/захвата цели с 3-я вариантами захвата<br>
+		&nbsp; (Grab Target в настройках).</b></i></address>
 </blockquote>
 <p>&nbsp;</p>
 <blockquote>
-	<p align="left">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлена функция оповещений по строке.</code></b></i><br>
-		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<code><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u2139.png" width="16"><i><b>Кнопка функции находится в главном меню.</b></i></code><br>
+	<p align="left"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлена функция оповещений по строке.</code></b></i><br>
+		&nbsp;<code><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u2139.png" width="16"><i><b>Кнопка функции находится в главном меню.</b></i></code><br>
 		<br>
-		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлены 2 новых тега: &lt;TargetID&gt; и &lt;OVehicleID&gt;. Подробнее: Помощь &gt; Теги.</code></b></i><br>
+		<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлены 2 новых тега: &lt;TargetID&gt; и &lt;OVehicleID&gt;. Подробнее: Помощь &gt; Теги.</code></b></i><br>
 		<br>
-		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлена возможность ставить свое сочетание клавиш для паузы биндера<br>
-		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(в настройках).</code></b></i><br>
+		<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Добавлена возможность ставить свое сочетание клавиш для паузы биндера<br>
+		&nbsp; (в настройках).</code></b></i><br>
 		&nbsp;</p>
 </blockquote>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><code><i><b>В Weapons-Assistant добавлена отыгровка обреза и скорострельного дробовика.<br>
+<p><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><code><i><b>В Weapons-Assistant добавлена отыгровка обреза и скорострельного дробовика.</b></i></code><br>
 	<br>
-	&nbsp; &nbsp; &nbsp; &nbsp;</b></i></code><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Обширная часть исправлений/доработок биндера.</code></b></i></p>
+	<img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Обширная часть исправлений/доработок биндера.</code></b></i></p>
 <p><code><i><b>&nbsp;</b></i></code>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 <div style="text-align: left;"><font face="Arial, Helvetica, sans-serif"><font size="3"><b><font color="#336699"><code><samp><font style="background-color: #d3d3d3;">[v.1.7.0.0 by 31.12.18]</font>:</samp></code></font></b></font></font><br>
 	<br>
