@@ -1,8 +1,7 @@
 <body bgcolor="#f0f0f0">
 <p align="center">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p align="center">&nbsp; &nbsp; &nbsp;<img height="48" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f47d.png" width="48"><br>
-  <img height="24" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f47d.png" width="24">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img height="40" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f47d.png"
-    width="40"></p>
+	<img height="24" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f47d.png" width="24">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img height="40" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f47d.png" width="40"></p>
 <p align="center">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img height="48" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u2049.png" width="48"></p>
 <p align="center"><img height="36" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f918.png" width="36"><img height="48" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f92a.png" width="48"></p>
 <p>&nbsp;</p>
@@ -10,10 +9,11 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>
-  <meta charset="utf-8">
-  <style type="text/css">
-    * {
+	<meta charset="utf-8">
+	<style type="text/css">* {
       margin: 0;
       padding: 0;
     }
@@ -26,215 +26,161 @@
 
     a:hover {
       text-decoration: none;
-    }
-
-  </style>
+    }</style>
 </p>
 <center>
-  <hr>
-</center>
+	<hr></center>
 <blockquote>
-  <p align="left"><strong>Актуальная версия:&nbsp;</strong><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/31-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/38-20e3.png" width="16"><b>.</b>
-    <img
-      height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/38-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/30-20e3.png" width="16"></p>
-  <p><strong><font color="#339900"><b><font color="#000000">Дата обновления:&nbsp;</font></b></font></strong><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png"
-      width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0030_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><b>.</b><img height="16"
-      src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0039_20e3.png" width="16"></p>
-  <hr>
-  <blockquote style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f195.png" width="16">&nbsp;<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font size="3"><font style="background-color:#add8e6;">[v.1.8.8.0]</font></font>:</samp></code></b></blockquote>
-  <p>&nbsp;</p>
-  <blockquote>
-    <p align="left"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i><b><code>Fix</code></b></i>&nbsp;<i style="font-family: monospace;"><b>Versions</b></i><b><font face="monospace"><code><i>.</i></code></font></b></p>
-  </blockquote>
-  <p>&nbsp;</p>
-  <b style="font-family: Arial, Helvetica, sans-serif;"><font color="#336699"><code><samp><font style="background-color: #d3d3d3;">[v.1.8.0.0 by 11.02.19]</font></samp></code></font></b><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp>:</samp></code></b>
-  <p>&nbsp;</p>
-  <blockquote><i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i style="font-family: monospace;"><b>Добавлена функция фиксирования/захвата цели с 3-я вариантами захвата</b></i>
-    <address><i style="font-family: monospace;"><b>&nbsp; (Grab Target в настройках).</b></i><br>
+	<p align="left"><strong>Актуальная версия:&nbsp;</strong><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/31-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/38-20e3.png" width="16"><b>.</b> <img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/38-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/30-20e3.png" width="16"></p>
+	<p><strong><font color="#339900"><b><font color="#000000">Дата обновления:&nbsp;</font></b></font></strong><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0030_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0039_20e3.png" width="16"></p>
+	<hr>
+	<blockquote style="text-align: left;"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f195.png" width="16">&nbsp;<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font size="3"><font style="background-color:#add8e6;">[v.1.8.8.0]</font></font>:</samp></code></b></blockquote>
+	<p>&nbsp;</p>
+	<blockquote>
+		<p align="left"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i style="font-family: monospace;"><b>Fix Versions.</b></i></p>
+	</blockquote>
+	<p>&nbsp;</p>
+	<b style="font-family: Arial, Helvetica, sans-serif;"><font color="#336699"><code><samp><font style="background-color: #d3d3d3;">[v.1.8.0.0 by 11.02.19]</font></samp></code></font></b><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp>:</samp></code></b>
+	<p>&nbsp;</p>
+	<blockquote><i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлена</code></b></i><i style="font-family: monospace;"><b>&nbsp;функция фиксирования/захвата цели с 3-я вариантами захвата</b></i></blockquote>
+	<blockquote>
+		<address><i style="font-family: monospace;"><b>&nbsp; (Grab Target в настройках).</b></i><br>
 			&nbsp;</address>
-  </blockquote>
-  <p><i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлена функция оповещений по строке.</code></b></i><br>
-    <i><b><code>*</code></b></i><code><i><b>Кнопка функции находится в главном меню.</b></i></code></p>
-  <blockquote><br>
-    <i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлены 2 новых тега: &lt;TargetID&gt; и &lt;OVehicleID&gt;. Подробнее: Помощь &gt; Теги.</code></b></i><br> &nbsp;
-  </blockquote>
-  <i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлена возможность ставить свое сочетание клавиш для паузы биндера</code></b></i>
-  <blockquote><i><b><code>&nbsp; (в настройках).</code></b></i><br> &nbsp;
-  </blockquote>
+	</blockquote>
+	<p><i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлена функция оповещений по строке.</code></b></i><br>
+		<i><b><code>*</code></b></i><code><i><b>Кнопка функции находится в главном меню.</b></i></code></p>
+	<blockquote><br>
+		<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлены 2 новых тега: &lt;TargetID&gt; и &lt;OVehicleID&gt;. Подробнее: Помощь &gt; Теги.</code></b></i><br>
+		&nbsp;</blockquote>
+	<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлена возможность ставить свое сочетание клавиш для паузы биндера</code></b></i>
+	<blockquote><i><b><code>&nbsp; (в настройках).</code></b></i><br>
+		&nbsp;</blockquote>
 </blockquote>
 <p><i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><code><i><b>В Weapons-Assistant добавлена отыгровка обреза и скорострельного дробовика.</b></i></code></p>
 <blockquote>
-  <p><br>
-    <i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Обширная часть исправлений/доработок биндера.</code></b></i></p>
-  <p><code><i><b>&nbsp;</b></i></code>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-  <div style="text-align: left;">
-    <font face="Arial, Helvetica, sans-serif">
-      <font size="3"><b><font color="#336699"><code><samp><font style="background-color: #d3d3d3;">[v.1.7.0.0 by 31.12.18]</font>:</samp></code></font></b></font>
-    </font><br>
-    <br>
-    <i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлена функция Авто-доклад.<br>
+	<p><br>
+		<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Обширная часть исправлений/доработок биндера.</code></b></i></p>
+	<p><code><i><b>&nbsp;</b></i></code>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+	<div style="text-align: left;"><font face="Arial, Helvetica, sans-serif"><font size="3"><b><font color="#336699"><code><samp><font style="background-color: #d3d3d3;">[v.1.7.0.0 by 31.12.18]</font>:</samp></code></font></b></font> </font><br>
+		<br>
+		<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлена функция Авто-доклад.<br>
 		*Функция находится в главном меню за место кнопки &quot;Директория&quot;.<br>
 		*Открыть директорию теперь можно в настройках.</code></b></i><br>
-    <br>
-    <i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Изменено окно списка обновлений.</code></b></i><br>
-    <br>
-    <i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена команда /sh (Шпаргалки). Отныне работает корректно.</code></b></i><br>
-    <br>
-    <i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана функция уведомления о нанесении урона игроком.</code></b></i><br>
-    <br>
-    <i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана команда /pget (Информация о игроках в зоне стрима)</code></b></i></div>
-  <div><code><font face="Tahoma">*</font><u style="font-style: italic; font-weight: bold;">Команда теперь присваивается для горячих клавиш&nbsp;<font size="4">(<font size="3"><font style="background-color: #ffffe0;">Shift &amp; Home</font></font>)</font></u><b style="font-style: italic;">.</b></code><br>    &nbsp;
-  </div>
-  <p align="left">
-    <font face="Arial, Helvetica, sans-serif">
-      <font size="3"><b><font color="#336699"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.9.9 by 21.10.18]</font>:</samp></code></font></b></font>
-    </font><br> &nbsp;
-  </p>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправления/Доработка биндера.</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">&nbsp;</div>
-  <div style="text-align: left;">
-    <font color="#336699">
-      <font face="Arial, Helvetica, sans-serif"><b><code><samp><font style="background-color:#d3d3d3;">[v.1.6.9.5 by 12.09.18]</font>:</samp></code></b></font>
-    </font>
-  </div>
-  <div style="text-align: left;">&nbsp;</div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Изменена позиция конфиденциальности, версия согласована&nbsp;</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>и переведена в статус &laquo;Сonclusion&raquo;.</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">&nbsp;</div>
-  <div>
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправлена проблема при ложном срабатывании пробела&nbsp;</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>при открытом окне игрового интерфейса.</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">&nbsp;</div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправление менеджера обновлений.</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">&nbsp;</div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправление некоторых недочетов.</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">&nbsp;</div>
-  <div style="text-align: left;">
-    <font color="#336699">
-      <font face="Arial, Helvetica, sans-serif"><b><code><samp><font style="background-color:#d3d3d3;">[v.1.6.9.0 by 21.07.18]</font>:</samp></code></b></font>
-    </font>
-  </div>
-  <div style="text-align: left;">&nbsp;</div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Уменьшена задержка работоспособности WeaponsAssistant.&nbsp;</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">&nbsp;</div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Возможность редактировать отыгровки убирания оружия&nbsp;</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>в WeaponsAssistant.</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">&nbsp;</div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Добавлен новый тег &lt;DamageID&gt;.&nbsp;</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>Определяет ID игрока который последний нанес Вам урон.</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">&nbsp;</div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Добавлена функция уведомления о получении урона игроком&nbsp;</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>&nbsp; (Ник [ID] | оружие | расстояние). Включить можно в настройках.</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">&nbsp;</div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Добавлено в горячие клавиши - Shift + End</samp></code></b></i></font>
-  </div>
-  <div style="text-align: left;">
-    <font face="Comic Sans MS, cursive"><i><b><code><samp>&nbsp; Моментально закрывает процесс игры.</samp></code></b></i></font><br> &nbsp;
-  </div>
-  <div>
-    <p align="left">
-      <font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправления/Доработка биндера.</samp></code></b></i></font><br>
-      <br>
-      <b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.8.5 by 25.05.18]</font>:</samp></code></b><br> &nbsp;
-    </p>
-  </div>
+		<br>
+		<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Изменено окно списка обновлений.</code></b></i><br>
+		<br>
+		<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена команда /sh (Шпаргалки). Отныне работает корректно.</code></b></i><br>
+		<br>
+		<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана функция уведомления о нанесении урона игроком.</code></b></i><br>
+		<br>
+		<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана команда /pget (Информация о игроках в зоне стрима)</code></b></i></div>
+	<div><code><font face="Tahoma">*</font><u style="font-style: italic; font-weight: bold;">Команда теперь присваивается для горячих клавиш&nbsp;<font size="4">(<font size="3"><font style="background-color: #ffffe0;">Shift &amp; Home</font></font>)</font></u><b style="font-style: italic;">.</b></code><br>
+		&nbsp;</div>
+	<p align="left"><font face="Arial, Helvetica, sans-serif"><font size="3"><b><font color="#336699"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.9.9 by 21.10.18]</font>:</samp></code></font></b></font> </font><br>
+		&nbsp;</p>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправления/Доработка биндера.</samp></code></b></i></font></div>
+	<div style="text-align: left;">&nbsp;</div>
+	<div style="text-align: left;"><font color="#336699"><font face="Arial, Helvetica, sans-serif"><b><code><samp><font style="background-color:#d3d3d3;">[v.1.6.9.5 by 12.09.18]</font>:</samp></code></b></font> </font></div>
+	<div style="text-align: left;">&nbsp;</div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Изменена позиция конфиденциальности, версия согласована&nbsp;</samp></code></b></i></font></div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>и переведена в статус &laquo;Сonclusion&raquo;.</samp></code></b></i></font></div>
+	<div style="text-align: left;">&nbsp;</div>
+	<div><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправлена проблема при ложном срабатывании пробела&nbsp;</samp></code></b></i></font></div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>при открытом окне игрового интерфейса.</samp></code></b></i></font></div>
+	<div style="text-align: left;">&nbsp;</div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправление менеджера обновлений.</samp></code></b></i></font></div>
+	<div style="text-align: left;">&nbsp;</div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправление некоторых недочетов.</samp></code></b></i></font></div>
+	<div style="text-align: left;">&nbsp;</div>
+	<div style="text-align: left;"><font color="#336699"><font face="Arial, Helvetica, sans-serif"><b><code><samp><font style="background-color:#d3d3d3;">[v.1.6.9.0 by 21.07.18]</font>:</samp></code></b></font> </font></div>
+	<div style="text-align: left;">&nbsp;</div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Уменьшена задержка работоспособности WeaponsAssistant.&nbsp;</samp></code></b></i></font></div>
+	<div style="text-align: left;">&nbsp;</div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Возможность редактировать отыгровки убирания оружия&nbsp;</samp></code></b></i></font></div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>в WeaponsAssistant.</samp></code></b></i></font></div>
+	<div style="text-align: left;">&nbsp;</div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Добавлен новый тег &lt;DamageID&gt;.&nbsp;</samp></code></b></i></font></div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>Определяет ID игрока который последний нанес Вам урон.</samp></code></b></i></font></div>
+	<div style="text-align: left;">&nbsp;</div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Добавлена функция уведомления о получении урона игроком&nbsp;</samp></code></b></i></font></div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>&nbsp; (Ник [ID] | оружие | расстояние). Включить можно в настройках.</samp></code></b></i></font></div>
+	<div style="text-align: left;">&nbsp;</div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Добавлено в горячие клавиши - Shift + End</samp></code></b></i></font></div>
+	<div style="text-align: left;"><font face="Comic Sans MS, cursive"><i><b><code><samp>&nbsp; Моментально закрывает процесс игры.</samp></code></b></i></font><br>
+		&nbsp;</div>
+	<div>
+		<p align="left"><font face="Comic Sans MS, cursive"><i><b><code><samp>&bull; Исправления/Доработка биндера.</samp></code></b></i></font><br>
+			<br>
+			<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.8.5 by 25.05.18]</font>:</samp></code></b><br>
+			&nbsp;</p>
+	</div>
 </blockquote>
 <p>&nbsp;</p>
 <div style="text-align: left;"><i><b><code>&bull; Добавлены отыгровки WeaponsAssistant для клюшки и кийя.</code></b></i></div>
-<div style="text-align: left;"><i><b><code>*Все отыгровки заранее написаны подходящими для всех серверов.</code></b></i><br> &nbsp;
-</div>
-<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.8.0 by 22.05.18]</font>:</samp></code></b><br> &nbsp;
-</p>
-<div style="text-align: left;"><code><i><b>&bull; Совместимось с версией SA-MP 0.3 DL.</b></i></code><br> &nbsp;
-</div>
-<div style="text-align: left;"><code><i><b>&bull; Вшит скрипт &laquo;WeaponsAssistant&raquo; с вариацией вывода отыгровок: 1 строка &amp; 3 строки. Подробнее во вкладке &laquo;Помощь&raquo;.</b></i></code><br> &nbsp;
-</div>
-<div style="text-align: left;"><code><i><b>&bull; Исправлена работоспособность тега &lt;SmsID&gt;. Теперь функционирует резво.</b></i></code><br> &nbsp;
-</div>
+<div style="text-align: left;"><i><b><code>*Все отыгровки заранее написаны подходящими для всех серверов.</code></b></i><br>
+	&nbsp;</div>
+<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.8.0 by 22.05.18]</font>:</samp></code></b><br>
+	&nbsp;</p>
+<div style="text-align: left;"><code><i><b>&bull; Совместимось с версией SA-MP 0.3 DL.</b></i></code><br>
+	&nbsp;</div>
+<div style="text-align: left;"><code><i><b>&bull; Вшит скрипт &laquo;WeaponsAssistant&raquo; с вариацией вывода отыгровок: 1 строка &amp; 3 строки. Подробнее во вкладке &laquo;Помощь&raquo;.</b></i></code><br>
+	&nbsp;</div>
+<div style="text-align: left;"><code><i><b>&bull; Исправлена работоспособность тега &lt;SmsID&gt;. Теперь функционирует резво.</b></i></code><br>
+	&nbsp;</div>
 <div style="text-align: left;"><code><i><b>&bull; Добавлены несколько новых параметров в настройки.<br>
 	&nbsp;</b></i></code></div>
-<div style="text-align: left;"><code><i><b>&bull; Исправление некоторых багов и недочетов.</b></i></code><br> &nbsp;
-</div>
-<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.7.3 by 17.03.18]</font>:</samp></code></b><br> &nbsp;
-</p>
+<div style="text-align: left;"><code><i><b>&bull; Исправление некоторых багов и недочетов.</b></i></code><br>
+	&nbsp;</div>
+<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.7.3 by 17.03.18]</font>:</samp></code></b><br>
+	&nbsp;</p>
 <p><code><i><b>&bull; Исправлен баг связанный с использованием команды /ls.</b></i></code><br>
-  <br>
-  <b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.7.1 by 13.03.18]</font>:</samp></code></b><br> &nbsp;
-</p>
+	<br>
+	<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.7.1 by 13.03.18]</font>:</samp></code></b><br>
+	&nbsp;</p>
 <div style="text-align: left;"><code><i><b>&bull; Fix Versions.<br>
 	&nbsp;&nbsp;</b></i></code></div>
-<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.7.0 by 06.03.18]</font>:</samp></code></b><br> &nbsp;
-</p>
-<div style="text-align: left;"><i><b><code>&bull; Возможность включить/выключть ChatLogs (Настройки).</code></b></i><br> &nbsp;
-</div>
-<div style="text-align: left;"><i><b><code>&bull; Добавлен новый тег &lt;Vehicle&gt;;</code></b></i><br> &nbsp;
-</div>
+<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.7.0 by 06.03.18]</font>:</samp></code></b><br>
+	&nbsp;</p>
+<div style="text-align: left;"><i><b><code>&bull; Возможность включить/выключть ChatLogs (Настройки).</code></b></i><br>
+	&nbsp;</div>
+<div style="text-align: left;"><i><b><code>&bull; Добавлен новый тег &lt;Vehicle&gt;;</code></b></i><br>
+	&nbsp;</div>
 <div style="text-align: left;"><i><b><code>&nbsp; Пишет название Т/С в котором Вы сидите.</code></b></i></div>
-<div style="text-align: left;"><i><b><code>&nbsp; Пример: /s Запрашиваю разрешение на выезд. Используемый Т/C: &lt;Vehicle&gt;.</code></b></i><br> &nbsp;
-</div>
-<div style="text-align: left;"><i><b><code>&bull; Доработана/исправлена часть ИК.</code></b></i><br> &nbsp;
-</div>
+<div style="text-align: left;"><i><b><code>&nbsp; Пример: /s Запрашиваю разрешение на выезд. Используемый Т/C: &lt;Vehicle&gt;.</code></b></i><br>
+	&nbsp;</div>
+<div style="text-align: left;"><i><b><code>&bull; Доработана/исправлена часть ИК.</code></b></i><br>
+	&nbsp;</div>
 <p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.6.8 by 02.03.18]</font>:</samp></code></b><br>
-  <br>
-  <i><b><code>&bull; Добавлен новый тег &lt;Region&gt;;</code></b></i><br> &nbsp;
-</p>
+	<br>
+	<i><b><code>&bull; Добавлен новый тег &lt;Region&gt;;</code></b></i><br>
+	&nbsp;</p>
 <div style="text-align: left;"><code><i><b>&nbsp; Пишет название района по находящемся координатам.&nbsp;</b></i></code></div>
 <div style="text-align: left;"><code><i><b>&nbsp; Пример: /r Нахожусь в районе &laquo;&lt;Region&gt;&raquo;. Прием.<br>
 	&nbsp; &nbsp;&nbsp;</b></i></code></div>
-<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.6.0 by 22.02.18]</font>:</samp></code></b><br> &nbsp;
-</p>
-<div style="text-align: left;"><code><i><b>&bull; Переработана большая часть интерфейса ПО.</b></i></code><br> &nbsp;
-</div>
-<div style="text-align: left;"><code><i><b>&bull; Pget и recon - эти функции были существенно доработаны, а также доработка коснулась всего общего (ИК) портирования ПО.</b></i></code><br> &nbsp;
-</div>
-<div style="text-align: left;"><code><i><b>&bull; Добавлены функции эффекта: /nigvis (ПНВ) и /thvis (ПТВ).</b></i></code><br> &nbsp;
-</div>
-<div style="text-align: left;"><code><i><b>&bull; Добавлена функция /mytime - посмотреть время игры за сеанс.</b></i></code><br> &nbsp;
-</div>
-<div style="text-align: left;"><code><i><b>&bull; Улучшено качество вызова функций командами.</b></i></code><br> &nbsp;
-</div>
-<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.3.0 by 31.12.17]</font>:</samp></code></b><br> &nbsp;
-</p>
-<h4 style="text-align: left;"><b><font color="#000000"><font face="Comic Sans MS, cursive"><code><samp>&bull;&nbsp;</samp></code></font></font><i><code>В качестве новогоднего подарка - НОВАЯ (секретная) команда /hype.&nbsp;<font color="#A52A2A">(Удалена)</font></code></i></b><br>  &nbsp;
-</h4>
-<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.2.0 by 28.11.17]</font>:</samp></code></b><br> &nbsp;
-</p>
-<div style="text-align: left;">
-  <font color="#000000"><b><i><font face="Comic Sans MS, cursive"><code><samp>&bull;&nbsp;</samp></code></font><samp>Новая система обновлений.</samp></i></b></font><br> &nbsp;
-</div>
-<div style="text-align: left;">
-  <font color="#000000"><b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Поддержка команд биндера серверами.</samp></i></b></font><br>
-  <br>
-  <b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Новый тег &lt;day&gt; (Пишет текущий день недели).</samp></i></b></div>
+<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.6.0 by 22.02.18]</font>:</samp></code></b><br>
+	&nbsp;</p>
+<div style="text-align: left;"><code><i><b>&bull; Переработана большая часть интерфейса ПО.</b></i></code><br>
+	&nbsp;</div>
+<div style="text-align: left;"><code><i><b>&bull; Pget и recon - эти функции были существенно доработаны, а также доработка коснулась всего общего (ИК) портирования ПО.</b></i></code><br>
+	&nbsp;</div>
+<div style="text-align: left;"><code><i><b>&bull; Добавлены функции эффекта: /nigvis (ПНВ) и /thvis (ПТВ).</b></i></code><br>
+	&nbsp;</div>
+<div style="text-align: left;"><code><i><b>&bull; Добавлена функция /mytime - посмотреть время игры за сеанс.</b></i></code><br>
+	&nbsp;</div>
+<div style="text-align: left;"><code><i><b>&bull; Улучшено качество вызова функций командами.</b></i></code><br>
+	&nbsp;</div>
+<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.3.0 by 31.12.17]</font>:</samp></code></b><br>
+	&nbsp;</p>
+<h4 style="text-align: left;"><b><font color="#000000"><font face="Comic Sans MS, cursive"><code><samp>&bull;&nbsp;</samp></code></font></font><i><code>В качестве новогоднего подарка - НОВАЯ (секретная) команда /hype.&nbsp;<font color="#A52A2A">(Удалена)</font></code></i></b><br>
+	&nbsp;</h4>
+<p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.2.0 by 28.11.17]</font>:</samp></code></b><br>
+	&nbsp;</p>
+<div style="text-align: left;"><font color="#000000"><b><i><font face="Comic Sans MS, cursive"><code><samp>&bull;&nbsp;</samp></code></font><samp>Новая система обновлений.</samp></i></b></font><br>
+	&nbsp;</div>
+<div style="text-align: left;"><font color="#000000"><b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Поддержка команд биндера серверами.</samp></i></b></font><br>
+	<br>
+	<b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Новый тег &lt;day&gt; (Пишет текущий день недели).</samp></i></b></div>
 <div>
-  <h4 style="text-align: left;"><b><i><code>&nbsp;</code></i></b></h4>
+	<h4 style="text-align: left;"><b><i><code>&nbsp;</code></i></b></h4>
 </div>
 <p>&nbsp;</p>
