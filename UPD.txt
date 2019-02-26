@@ -3,19 +3,19 @@
 <p align="center">&nbsp; &nbsp; &nbsp;<img height="48" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f47d.png" width="48"><br>
 	<img height="24" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f47d.png" width="24">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img height="40" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f47d.png" width="40"></p>
 <p align="center">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img height="48" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u2049.png" width="48"></p>
-<p align="center">&nbsp;<img height="36" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f918.png" width="36"><img height="48" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f92a.png" width="48"></p>
+<p align="center">&nbsp;<img height="36" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f918.png" width="36"><img height="48" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f92a.png" width="48"><br>
+	&nbsp;</p>
 <hr>
 <center>
 	<p align="left"><strong>Актуальная версия:&nbsp;</strong><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/31-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/38-20e3.png" width="16"><b>.</b> <img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/38-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/30-20e3.png" width="16"></p>
 </center>
 <p><strong><span style="color: #339900;"><b><span style="color: #000000;">Дата обновления:&nbsp;</span></b></span></strong><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0030_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0039_20e3.png" width="16"></p>
-<blockquote>
-	<hr></blockquote>
+<hr>
 <p><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f195.png" width="16">&nbsp;<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><span style="font-size: medium;"><span style="background-color: #add8e6;">[v.1.8.8.0]</span></span>:</samp></code></b>&nbsp;<br>
 	&nbsp;</p>
 <p align="left"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i style="font-family: monospace;"><b><code>Fix Versions.</code></b></i><br>
 	<br>
-	<b style="font-family: Arial, Helvetica, sans-serif;"><span style="color: #336699;"><code><samp><span style="background-color: #d3d3d3;">[v.1.8.0.0 by 11.02.19]</span></samp></code></span></b><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp>:</samp></code></b><br>
+	<b style="font-family: Arial, Helvetica, sans-serif;"><span style="color: #336699;"><code><span style="background-color: #d3d3d3;">[v.1.8.0.0 by 11.02.19]</span></code></span></b><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code>:</code></b><br>
 	&nbsp;</p>
 <p><code><i><b><samp>&bull;&nbsp;</samp>Добавлена&nbsp;функция фиксирования/захвата цели с 3-я вариантами захвата</b></i><br>
 	<i style="font-family: monospace;"><b>&nbsp; (Grab Target в настройках).</b></i></code></p>
@@ -27,7 +27,7 @@
 	&nbsp; (в настройках).</b></i></code></p>
 <p><code><i><b><samp>&bull;&nbsp;</samp>В Weapons-Assistant добавлена отыгровка обреза и скорострельного дробовика.</b></i></code></p>
 <p><code><i style="font-family: 'Comic Sans MS', cursive;"><b><samp>&bull;&nbsp;</samp></b></i><i><b>Обширная часть исправлений/доработок биндера.</b></i>&nbsp; &nbsp; &nbsp; &nbsp;</code></p>
-<div style="text-align: left;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: medium;"><b><span style="color: #336699;"><code><samp><span style="background-color: #d3d3d3;">[v.1.7.0.0 by 31.12.18]</span>:</samp></code></span></b></span></span><br>
+<p align="left"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: medium;"><b><span style="color: #336699;"><code><span style="background-color: #d3d3d3;">[v.1.7.0.0 by 31.12.18]</span>:</code></span></b></span></span><br>
 	<br>
 	<br>
 	<i style="font-family: 'Comic Sans MS', cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлена функция Авто-доклад.<br>
@@ -40,16 +40,15 @@
 	<br>
 	<i style="font-family: 'Comic Sans MS', cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана функция уведомления о нанесении урона игроком.</code></b></i><br>
 	<br>
-	<i style="font-family: 'Comic Sans MS', cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана команда /pget (Информация о игроках в зоне стрима)</code></b></i></div>
+	<i style="font-family: 'Comic Sans MS', cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана команда /pget (Информация о игроках в зоне стрима)</code></b></i></p>
 <div><code><span style="font-family: Tahoma;">*</span><u style="font-style: italic; font-weight: bold;">Команда теперь присваивается для горячих клавиш&nbsp;<span style="font-size: large;">(<span style="font-size: medium;"><span style="background-color: #ffffe0;">Shift &amp; Home</span></span>)</span></u><b style="font-style: italic;">.</b></code></div>
 <p align="left"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: medium;"><b><span style="color: #336699;"><code><samp><span style="background-color: #d3d3d3;">[v.1.6.9.9 by 21.10.18]</span>:</samp></code></span></b></span> </span><br>
 	&nbsp;</p>
 <div style="text-align: left;"><span style="font-family: Comic Sans MS, cursive;"><i><b><code><samp>&bull; Исправления/Доработка биндера.</samp></code></b></i></span></div>
-<div style="text-align: left;">&nbsp;</div>
-<div style="text-align: left;"><span style="color: #336699;"><span style="font-family: Arial, Helvetica, sans-serif;"><b><code><samp><span style="background-color: #d3d3d3;">[v.1.6.9.5 by 12.09.18]</span>:</samp></code></b></span> </span></div>
-<div style="text-align: left;">&nbsp;<br>
-	&nbsp;</div>
-<div style="text-align: left;"><span style="font-family: Comic Sans MS, cursive;"><i><b><code><samp>&bull; Изменена позиция конфиденциальности, версия согласована&nbsp;</samp></code></b></i></span></div>
+<div style="text-align: left;"><br>
+	<b style="font-family: Arial, Helvetica, sans-serif; color: #336699;"><code><samp><span style="background-color: #d3d3d3;">[v.1.6.9.5 by 12.09.18]</span>:</samp></code></b></div>
+<p align="left"><br>
+	<i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><code><samp>&bull; Изменена позиция конфиденциальности, версия согласована&nbsp;</samp></code></b></i></p>
 <div style="text-align: left;"><span style="font-family: Comic Sans MS, cursive;"><i><b><code><samp>и переведена в статус &laquo;Сonclusion&raquo;.</samp></code></b></i></span></div>
 <div style="text-align: left;">&nbsp;</div>
 <div><span style="font-family: Comic Sans MS, cursive;"><i><b><code><samp>&bull; Исправлена проблема при ложном срабатывании пробела&nbsp;</samp></code></b></i></span></div>
@@ -84,8 +83,9 @@
 <div style="text-align: left;"><i><b><code>&bull; Добавлены отыгровки WeaponsAssistant для клюшки и кийя.</code></b></i></div>
 <div style="text-align: left;"><i><b><code>*Все отыгровки заранее написаны подходящими для всех серверов.</code></b></i><br>
 	<br>
-	<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.8.0 by 22.05.18]</font>:</samp></code></b></div>
-<p align="left">&nbsp;</p>
+	<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.8.0 by 22.05.18]</font>:</samp></code></b><br>
+	<br>
+	&nbsp;</div>
 <div style="text-align: left;"><code><i><b>&bull; Совместимось с версией SA-MP 0.3 DL.</b></i></code><br>
 	&nbsp;</div>
 <div style="text-align: left;"><code><i><b>&bull; Вшит скрипт &laquo;WeaponsAssistant&raquo; с вариацией вывода отыгровок: 1 строка &amp; 3 строки. Подробнее во вкладке &laquo;Помощь&raquo;.</b></i></code><br>
@@ -118,13 +118,13 @@
 	&nbsp;</div>
 <p align="left"><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.6.8 by 02.03.18]</font>:</samp></code></b><br>
 	<br>
-	<i><b><code>&bull; Добавлен новый тег &lt;Region&gt;;</code></b></i><br>
-	&nbsp;</p>
+	<i><b><code>&bull; Добавлен новый тег &lt;Region&gt;;</code></b></i></p>
 <div style="text-align: left;"><code><i><b>&nbsp; Пишет название района по находящемся координатам.&nbsp;</b></i></code></div>
 <div style="text-align: left;"><code><i><b>&nbsp; Пример: /r Нахожусь в районе &laquo;&lt;Region&gt;&raquo;. Прием.<br>
 	&nbsp; &nbsp;&nbsp;</b></i></code><br>
-	<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.6.0 by 22.02.18]</font>:</samp></code></b></div>
-<p align="left">&nbsp;</p>
+	<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.6.0 by 22.02.18]</font>:</samp></code></b><br>
+	<br>
+	&nbsp;</div>
 <div style="text-align: left;"><code><i><b>&bull; Переработана большая часть интерфейса ПО.</b></i></code><br>
 	&nbsp;</div>
 <div style="text-align: left;"><code><i><b>&bull; Pget и recon - эти функции были существенно доработаны, а также доработка коснулась всего общего (ИК) портирования ПО.</b></i></code><br>
@@ -139,9 +139,9 @@
 <h4 style="text-align: left;"><b><font color="#000000"><font face="Comic Sans MS, cursive"><code><samp>&bull;&nbsp;</samp></code></font></font><i><code>В качестве новогоднего подарка - НОВАЯ (секретная) команда /hype.&nbsp;<font color="#A52A2A">(Удалена)</font></code></i></b><br>
 	<br>
 	<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><font style="background-color:#d3d3d3;">[v.1.6.2.0 by 28.11.17]</font>:</samp></code></b><br>
-	&nbsp;</h4>
-<div style="text-align: left;"><font color="#000000"><b><i><font face="Comic Sans MS, cursive"><code><samp>&bull;&nbsp;</samp></code></font><samp>Новая система обновлений.</samp></i></b></font><br>
-	&nbsp;</div>
+	<br>
+	<br>
+	<b><i><font face="Comic Sans MS, cursive"><code><samp>&bull;&nbsp;</samp></code></font><samp>Новая система обновлений.</samp></i></b></h4>
 <div style="text-align: left;"><font color="#000000"><b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Поддержка команд биндера серверами.</samp></i></b></font><br>
 	<br>
 	<b><i><samp><font face="Comic Sans MS, cursive"><code>&bull;&nbsp;</code></font>Новый тег &lt;day&gt; (Пишет текущий день недели).</samp></i></b></div>
