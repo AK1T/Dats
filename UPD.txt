@@ -7,16 +7,16 @@
 	&nbsp;</p>
 <hr>
 <center>
-	<p align="left"><strong>Актуальная версия:&nbsp;</strong><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/31-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/38-20e3.png" width="16"><b>.</b> <img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/38-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/30-20e3.png" width="16"></p>
+	<p align="left"><strong>Актуальная версия:&nbsp;</strong><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/31-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/38-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/38-20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/30-20e3.png" width="16"><br>
+		<strong><span style="color: #339900;"><b><span style="color: #000000;">Дата обновления:&nbsp;</span></b></span></strong><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0030_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0039_20e3.png" width="16"></p>
 </center>
-<p><strong><span style="color: #339900;"><b><span style="color: #000000;">Дата обновления:&nbsp;</span></b></span></strong><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0030_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0032_20e3.png" width="16"><b>.</b><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0031_20e3.png" width="16"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u0039_20e3.png" width="16"></p>
 <hr>
-<p><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f195.png" width="16">&nbsp;<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><span style="font-size: medium;"><span style="background-color: #add8e6;">[v.1.8.8.0]</span></span>:</samp></code></b>&nbsp;<br>
-	&nbsp;</p>
-<p align="left"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i style="font-family: monospace;"><b><code>Fix Versions.</code></b></i><br>
+<div><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f195.png" width="16">&nbsp;<b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code><samp><span style="font-size: medium;"><span style="background-color: #add8e6;">[v.1.8.8.0]</span></span>:</samp></code></b>&nbsp;<br>
+	&nbsp;</div>
+<div align="left"><img height="16" src="https://pic.sopili.net/pub/emoji/noto-emoji/png/128/emoji_u1f539.png" width="16"><i style="font-family: monospace;"><b><code>Fix Versions.</code></b></i><br>
 	<br>
 	<b style="font-family: Arial, Helvetica, sans-serif;"><span style="color: #336699;"><code><span style="background-color: #d3d3d3;">[v.1.8.0.0 by 11.02.19]</span></code></span></b><b style="color: #336699; font-family: Arial, Helvetica, sans-serif;"><code>:</code></b><br>
-	&nbsp;</p>
+	&nbsp;</div>
 <p><code><i><b><samp>&bull;&nbsp;</samp>Добавлена&nbsp;функция фиксирования/захвата цели с 3-я вариантами захвата</b></i><br>
 	<i style="font-family: monospace;"><b>&nbsp; (Grab Target в настройках).</b></i></code></p>
 <p><code><i style="font-family: &quot;Comic Sans MS&quot;, cursive;"><b><samp>&bull;&nbsp;</samp></b></i><i><b>Добавлена функция оповещений по строке.</b></i></code></p>
@@ -27,7 +27,7 @@
 	&nbsp; (в настройках).</b></i></code></p>
 <p><code><i><b><samp>&bull;&nbsp;</samp>В Weapons-Assistant добавлена отыгровка обреза и скорострельного дробовика.</b></i></code></p>
 <p><code><i style="font-family: 'Comic Sans MS', cursive;"><b><samp>&bull;&nbsp;</samp></b></i><i><b>Обширная часть исправлений/доработок биндера.</b></i>&nbsp; &nbsp; &nbsp; &nbsp;</code></p>
-<p align="left"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: medium;"><b><span style="color: #336699;"><code><span style="background-color: #d3d3d3;">[v.1.7.0.0 by 31.12.18]</span>:</code></span></b></span></span><br>
+<div align="left"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: medium;"><b><span style="color: #336699;"><code><span style="background-color: #d3d3d3;">[v.1.7.0.0 by 31.12.18]</span>:</code></span></b></span></span><br>
 	<br>
 	<br>
 	<i style="font-family: 'Comic Sans MS', cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Добавлена функция Авто-доклад.<br>
@@ -40,10 +40,12 @@
 	<br>
 	<i style="font-family: 'Comic Sans MS', cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана функция уведомления о нанесении урона игроком.</code></b></i><br>
 	<br>
-	<i style="font-family: 'Comic Sans MS', cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана команда /pget (Информация о игроках в зоне стрима)</code></b></i></p>
-<div><code><span style="font-family: Tahoma;">*</span><u style="font-style: italic; font-weight: bold;">Команда теперь присваивается для горячих клавиш&nbsp;<span style="font-size: large;">(<span style="font-size: medium;"><span style="background-color: #ffffe0;">Shift &amp; Home</span></span>)</span></u><b style="font-style: italic;">.</b></code></div>
-<p align="left"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: medium;"><b><span style="color: #336699;"><code><samp><span style="background-color: #d3d3d3;">[v.1.6.9.9 by 21.10.18]</span>:</samp></code></span></b></span> </span><br>
-	&nbsp;</p>
+	<i style="font-family: 'Comic Sans MS', cursive;"><b><code><samp>&bull;&nbsp;</samp></code></b></i><i><b><code>Исправлена/Доработана команда /pget (Информация о игроках в зоне стрима)</code></b></i></div>
+<div><code><span style="font-family: Tahoma;">*</span><u style="font-style: italic; font-weight: bold;">Команда теперь присваивается для горячих клавиш&nbsp;<span style="font-size: large;">(<span style="font-size: medium;"><span style="background-color: #ffffe0;">Shift &amp; Home</span></span>)</span></u><b style="font-style: italic;">.</b></code><br>
+	&nbsp;</div>
+<div align="left"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: medium;"><b><span style="color: #336699;"><code><samp><span style="background-color: #d3d3d3;">[v.1.6.9.9 by 21.10.18]</span>:</samp></code></span></b></span></span><br>
+	<br>
+	&nbsp;</div>
 <div style="text-align: left;"><span style="font-family: Comic Sans MS, cursive;"><i><b><code><samp>&bull; Исправления/Доработка биндера.</samp></code></b></i></span></div>
 <div style="text-align: left;"><br>
 	<b style="font-family: Arial, Helvetica, sans-serif; color: #336699;"><code><samp><span style="background-color: #d3d3d3;">[v.1.6.9.5 by 12.09.18]</span>:</samp></code></b></div>
