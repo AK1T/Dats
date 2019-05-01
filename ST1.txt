@@ -23,10 +23,9 @@
 		</style>
 	</head>
 
-	<body>
-				<center>
-			<a id="test" src="https://docs.google.com/document/d/1xFvHrNcjgAVP4_6N6fpsEb-UsF3jyHaYGGmKQDxfAx4/edit?usp=sharing">
-				<img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/status.gif"></a>       
+              <body>
+		<center>
+      <img src="http://raw.githubusercontent.com/AKiTCom/Dats/master/status.gif">     
 
 
 
